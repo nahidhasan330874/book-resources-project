@@ -3,7 +3,7 @@
 const ErrorPage = () => {
   return (
     <div className="min-h-screen flex items-center justify-center bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 px-4">
-      <div className="bg-white rounded-2xl shadow-2xl p-10 max-w-md w-full text-center">
+      <div className=" bg-white  rounded-2xl shadow-2xl p-10 max-w-md w-full text-center">
         
         {/* Error Code */}
         <h1 className="text-7xl font-extrabold text-indigo-600 mb-4">
